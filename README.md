@@ -1,2 +1,7 @@
-# curso-rl-2021
-Material de aulas e laboratórios para o curso de Aprendizado por Reforço.
+# Curso de Aprendizado por Reforço (CEIA)
+Material de aulas (slides) e laboratórios (códigos/notebooks).
+
+```
+Ano: 2021
+Realização: Centro de Excelência em Inteligência Artificial (CEIA)
+```
